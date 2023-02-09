@@ -9,11 +9,11 @@ Whether you're a blogger, marketer, or content creator, Alto-pilot is an essenti
 If you are an AI developer, you can leverage the open architecture of Alto-pilot to create and integrate your own writing completion models into the extension.
 
 
-### Integrate your model
+### 🏆 Integrate your model
 
 If you are interested in having your model featuring on Altopilot fill this form: 
 
-### Integrate your website
+### 🛠️ Making it work your website
 
 If you want Altopilot to work in your website, and it still doesn't work properly, please fill this form: 
 
