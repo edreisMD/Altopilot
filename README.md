@@ -1,4 +1,4 @@
-# ⌃ᵒ_ᵒ⌃   Altopilot    ⌃ᵒ_ᵒ⌃
+# ⌃ᵒuᵒ⌃   Altopilot    ⌃ᵒ_ᵒ⌃
 
 Alto-pilot is an open source project that provides a user interface for artificial intelligence to suggest writing completions on any website, similar to the autocomplete feature in Gmail. Alto-pilot allows anyone to easily implement their own AI to suggest completions for words, phrases, and sentences as users type.
 
