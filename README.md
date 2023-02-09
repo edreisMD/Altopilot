@@ -7,3 +7,14 @@ The project is built using an open source architecture, allowing developers and 
 Whether you're a blogger, marketer, or content creator, Alto-pilot is an essential tool for boosting your writing speed and accuracy. The project is constantly evolving, incorporating the latest AI advancements and user feedback to provide the best possible experience. Give it a try and experience the power of AI-assisted writing!
 
 If you are an AI developer, you can leverage the open architecture of Alto-pilot to create and integrate your own writing completion models into the extension.
+
+
+### Integrate your model
+
+If you are interested in having your model featuring on Altopilot fill this form: 
+
+### Integrate your website
+
+If you want Altopilot to work in your website, and it still doesn't work properly, please fill this form: 
+
+
