@@ -6,9 +6,10 @@ We believe this tools is specially good for professionals who writes a lot, in w
 
 The benefit of being an open-source project is to become compatible with a wide range of websites, and flexible enough to constantly adapt and improve. It also allows AI developers to easily integrate their models, iterate with users, and improve them. Altopilot "Suggestion Navigation" was primarily designed as a low friction interface to provide human feedback for AI, eventually helping models to improve though reinforcement learning (RLHF) or other methods.
 
-# Be part of the the community
+## Join the community
 
-we are also on discord.
+Start by publishing your model or testing the models "Alt" there.
+
 
 ### 🏆 Publish your model "Alt" there!
 
