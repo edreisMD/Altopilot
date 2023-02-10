@@ -1,4 +1,4 @@
-# ⌃ᵒ␣ᵒ⌃ -----------------   Altopilot   ----------------- ⌃ᵒ␣ᵒ⌃
+# ⌃ᵒ␣ᵒ⌃ ------------   Altopilot   ------------ ⌃ᵒ␣ᵒ⌃
 
 Altopilot provides a user interface for artificial intelligence to suggest writing completions on any website, similar to the autocomplete feature in Gmail. Altopilot allows anyone to easily implement their own AI to suggest completions for words, phrases, and sentences as users type.
 
