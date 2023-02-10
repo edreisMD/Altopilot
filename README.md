@@ -8,14 +8,14 @@ The benefit of being an open-source project is to become compatible with a wide 
 
 ## Join the community
 
-Start by publishing your model, testing the models "Alt" there or contributing to the development.
+Start by publishing your model, testing the models "Alt" there or contributing to the project's development.
 
 
 ### 💡 Add your model
 
-If you are interested in having your model featuring on Altopilot fill this form:
+If you want to add your model to Altopilot, please fill this form:
 
-You will be given a dedicated folder on ./Altopilot/AIs, where you can write a README.md file to desribe your model and implement it following these instructions
+When approved, you will be given a dedicated folder on ./Altopilot/AIs with the name you chose for your AI. Then, you can write a README.md file describing your model, and implement it through these steps.
 
 ### 🎨 Add a website
 
