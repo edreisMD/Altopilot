@@ -10,6 +10,9 @@
 
 Start by publishing your model, testing the models "Alt" there or contributing to the project's development.
 
+### Try the models "Alt" there 
+
+Follow this link to download the extension.
 
 ### 💡 Add your model
 
